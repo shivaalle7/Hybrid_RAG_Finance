@@ -1,6 +1,17 @@
 # Hybrid_RAG_Finance_documents_retrieval
 An AI-powered question-answering system that combines vector search and BM25 retrieval to provide accurate, context-aware answers from financial documents using LangChain, embeddings, ChromaDB, and LLMs
 
+## 🚀 Features
+
+- 📄 Upload and process financial documents
+- 🔍 Semantic search using vector embeddings
+- 🔑 Keyword-based retrieval using BM25
+- 🔀 Hybrid retrieval combining Vector Search + BM25
+- 🤖 LLM-powered question answering
+- 💾 ChromaDB vector database
+- 🧩 LangChain-based RAG pipeline
+- 📚 Context-aware answers from financial reports
+
 ## ▶️ Execution
 
 ### 1. Clone the Repository
