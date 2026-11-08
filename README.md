@@ -6,11 +6,6 @@ The application combines **BM25 keyword retrieval, semantic vector search, and L
 
 Built with Python, Streamlit, LangChain, ChromaDB, Hugging Face Embeddings, and Groq, this project demonstrates how hybrid information retrieval can improve document-based question answering.
 
-## 🚀 Live Application
-
-**Try the application:** Add your Streamlit Community Cloud URL here after deployment.
-
-**GitHub Repository:** https://github.com/shivaalle7/Hybrid_RAG_Finance
 
 ---
 
